@@ -1,0 +1,9 @@
+Primeiro devemos realizar as importações das libs e recursos que temos que utilizar no bloco 1.
+No bloco 2 realizamos uma ponte que faz com que tenha como enviar e receber os dados.
+Nos próximos blocos 3 e 4 fazemos a lógica de pegar a ultima página para saber até aonde nosso scraping pode pegar os dados.
+Nos blocos de búmero 5 e 6 declaramos as funções de buscar e trazer os links dos imoveis que temos que analisar.
+No bloco 7 realiza uma das funções para extração do link.
+O bloco 8 é feito um print na tela os resultados dessa busca do link.
+O bloco 9 é somente para saber se a requisição dos dados será muito grande ou não.
+O bloco 10 é um print de exemplo do link armazenado na variável.
+Nos blocos 11, 12 e 13 é aonde transformamos cada link, exigindo dados que cada um contém e realiza um print na tela demonstrando a extração dos dados.
